@@ -1,0 +1,17 @@
+.paint-border {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.square-white {
+    width: 10px;
+    height: 10px;
+    background: white;
+}
+
+.square-black {
+    width: 10px;
+    height: 10px;
+    background: black;
+}
